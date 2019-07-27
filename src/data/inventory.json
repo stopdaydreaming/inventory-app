@@ -1,0 +1,52 @@
+[
+  {
+    "type": "Router",
+    "ip": "192.168.1.1",
+    "status": "UP"
+  },
+  {
+    "type": "Host",
+    "ip": "192.168.1.2",
+    "status": "UP"
+  },
+  {
+    "type": "PLC",
+    "ip": "192.168.1.3",
+    "status": "UP"
+  },
+  {
+    "type": "Host",
+    "ip": "192.168.1.4",
+    "status": "DOWN"
+  },
+  {
+    "type": "PLC",
+    "ip": "192.168.1.5",
+    "status": "UP"
+  },
+  {
+    "type": "Host",
+    "ip": "192.168.1.6",
+    "status": "UP"
+  },
+  {
+    "type": "PLC",
+    "ip": "192.168.1.7",
+    "status": "DOWN"
+  },
+  {
+    "type": "PLC",
+    "ip": "192.168.1.8",
+    "status": "DOWN"
+  },
+  {
+    "type": "PLC",
+    "ip": "192.168.1.9",
+    "status": "UP"
+  },
+  {
+    "type": "PLC",
+    "ip": "192.168.1.10",
+    "status": "UP"
+  }
+]
