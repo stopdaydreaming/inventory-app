@@ -1,16 +1,22 @@
 import React from 'react';
+// import {Bar} from 'react-chartjs-2';
 
-
-class Chart extends React.Component {
+class BarChart extends React.Component {
   constructor(props) {
     super(props);
+    this.chartRef = React.createRef();
   }
 
+  componentDidUpdate() {}
+
+  componentDidMount() {}
+
   render() {
-    return(
-      <p>hello world</p>
+    return (
+      // <Bar />
+      <p>node chart goes here</p>
     );
   }
 }
 
-export default Chart;
+export default BarChart;
